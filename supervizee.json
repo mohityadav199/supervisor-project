@@ -1,0 +1,356 @@
+{
+    "supervizees": [
+      {
+        "supervizee": "Rahul",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 1
+      },
+      {
+        "supervizee": "Raghav",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 2
+      },
+      {
+        "supervizee": "deepak",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "8",
+        "id": 3
+      },
+      {
+        "supervizee": "sangram",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "7",
+        "id": 4
+      },
+      {
+      
+        "supervizee": "kush",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 5
+      },
+      {
+        "supervizee": "navya",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 6
+      },
+      {
+        "supervizee": "meera",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 7
+      },
+      {
+        "supervizee": "evelyn",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "8",
+        "id": 8
+      },
+      {
+        "supervizee": "sandeep",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "7",
+        "id": 9
+      },
+      {
+        "supervizee": "sahil",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 10
+      },
+      {
+        "supervizee": "rajdeep",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 11
+      },
+      {
+        "supervizee": "rithwik",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 12
+      },
+      {
+        "supervizee": "amar",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "8",
+        "id": 13
+      },
+      {
+        "supervizee": "venu",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id":" 7",
+        "id": 14
+      },
+      {
+        "supervizee": "tarishi",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 15
+      },
+      {
+        "supervizee": "neha",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 16
+      },
+      {
+        "supervizee": "hemant",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 17
+      },
+      {
+        "supervizee": "suraj",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "8",
+        "id": 18
+      },
+      {
+        "supervizee": "akriti",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "7",
+        "id": 19
+      },
+      {
+        "supervizee": "ananya",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 20
+      },
+      {
+        "supervizee": "abhishek",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 21
+      },
+      {
+        "supervizee": "Anmol",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 22
+      },
+      {
+        "supervizee": "Vaishally",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "8",
+        "id": 23
+      },
+      {
+        "supervizee": "Vishal",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "7",
+        "id": 24
+      },
+      {
+        "supervizee": "Vanshaj",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 25
+      },
+      {
+        "supervizee": "yashvi",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 26
+      },
+      {
+        "supervizee": "yash",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 27
+      },
+      {
+        "supervizee": "arman",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "8",
+        "id": 28
+      },
+      {
+        "supervizee": "aman",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "7",
+        "id": 29
+      },
+      {
+        "supervizee": "ayush",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 30
+      },
+      {
+        "supervizee": "Arnab",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 31
+      },
+      {
+        "supervizee": "Shristi",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 32
+      },
+      {
+        "supervizee": "Megha",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "8",
+        "id": 33
+      },
+      {
+        "supervizee": "Shivi",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "7",
+        "id": 34
+      },
+      {
+        "supervizee": "Shivam",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 35
+      },
+      {
+        "supervizee": "Shivani",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 36
+      },
+      {
+        "supervizee": "Ranjana",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 37
+      },
+      {
+        "supervizee": "anil",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 38
+      },
+      {
+        "supervizee": "amit",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 39
+      },
+      {
+        "supervizee": "tejas",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "7",
+        "id": 40
+      },
+      {
+        "supervizee": "gaurav",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "8",
+        "id": 41
+      },
+      {
+        "supervizee": "mahesh",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 42
+      },
+      {
+        "supervizee": "shivanshi",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 43
+      },
+      {
+        "supervizee": "Sanchita",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 44
+      },
+      {
+        "supervizee": "nishchita",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "7",
+        "id": 45
+      },
+      {
+        "supervizee": "manan",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "8",
+        "id": 46
+      },
+      {
+        "supervizee": "tanya",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "3",
+        "id": 47
+      },
+      {
+        "supervizee": "varun",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "4",
+        "id": 48
+      },
+      {
+        "supervizee": "atul",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "5",
+        "id": 49
+      },
+      {
+        "supervizee": "sagar",
+        "project": "Project name",
+        "industry": "Experience Engineering",
+        "supervizer-id": "7",
+        "id": 50
+      }
+      
+    ]
+  }

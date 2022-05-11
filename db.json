@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "supervizer": "Sailesh",
+      "project": "Project name",
+      "industry": "Experience Engineering",
+      "supervizee": "30",
+      "supervizer-id": 3
+    },
+    {
+      "supervizer": "Shobhit",
+      "project": "Project name",
+      "industry": "Experience Engineering",
+      "supervizee": "40",
+      "supervizer-id": 4
+    },
+    {
+      "supervizer": "Gautam",
+      "project": "Project name",
+      "industry": "Experience Engineering",
+      "supervizee": "12",
+      "supervizer-id": 5
+    },
+    {
+      "supervizer": "Rohit",
+      "project": "Project name",
+      "industry": "Experience Engineering",
+      "supervizee": "16",
+      "supervizer-id": 7
+    },
+    {
+    
+      "supervizer": "Vikas",
+      "project": "Project name",
+      "industry": "Experience Engineering",
+      "supervizee": "45",
+      "supervizer-id": 8
+    }
+  ]
+}
